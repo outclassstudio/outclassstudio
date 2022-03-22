@@ -4,3 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=outclassstudio)](https://github.com/outclassstudio/github-readme-stats)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=outclassstudio)](https://velog.io/@outclassstudio)

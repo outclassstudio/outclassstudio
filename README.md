@@ -1,1 +1,1 @@
-<img src="https://img.shields.io/badge/Javascript-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>

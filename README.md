@@ -9,6 +9,4 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/> 
   <br/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> 
- <br/>
- [스킬평가](https://www.notion.so/0b0b0d3db0ba48788086e0fe0dd61e9b?v=bab5bbcae1bb499481c2dfc4b0b3d30b)
 </div>

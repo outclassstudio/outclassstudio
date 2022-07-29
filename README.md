@@ -11,3 +11,4 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> 
 </div>
 ---
+✏️[Study Log](https://cultured-meteorite-64d.notion.site/TIL-bda08b1cb2184890ad1a0906fe416bc3)

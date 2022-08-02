@@ -8,8 +8,6 @@
  <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=flat-square&logo=apollographql&logoColor=white"/>
   <br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> 
-<br/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=postgresql&logoColor=white"/> 
 </div>
 <a href="https://cultured-meteorite-64d.notion.site/TIL-bda08b1cb2184890ad1a0906fe416bc3">✏️Study Log</a>

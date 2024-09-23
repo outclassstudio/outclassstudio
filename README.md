@@ -10,4 +10,4 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/> 
 </div>
 <a href="https://lmh-portfolio.vercel.app/" style="text-decoration:none;" target="_blank">🌟Portfolio</a>
-<a href="https://cultured-meteorite-64d.notion.site/TIL-bda08b1cb2184890ad1a0906fe416bc3" style="text-decoration:none" target="_blank">✏️Study Log</a>
+<a href="https://www.notion.so/TIL-1da348e0f5f14c7f9e6be9efcab4fc85" style="text-decoration:none" target="_blank">✏️Study Log</a>
